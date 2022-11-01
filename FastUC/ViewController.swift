@@ -5,6 +5,12 @@
 //  Created by Isha Nagireddy on 12/25/21.
 //
 
+// image citations:
+// <a href="https://www.flaticon.com/free-icons/daily-health-app" title="daily health app icons">Daily health app icons created by Freepik - Flaticon</a>
+// <a href="https://www.flaticon.com/free-icons/surgeon" title="surgeon icons">Surgeon icons created by Freepik - Flaticon</a>
+// <a href="https://www.flaticon.com/free-icons/hospital" title="hospital icons">Hospital icons created by Freepik - Flaticon</a>
+// <a href="https://www.flaticon.com/free-icons/hospital" title="hospital icons">Hospital icons created by Freepik - Flaticon</a>
+
 import UIKit
 import CoreLocation
 
